@@ -1,0 +1,9 @@
+openai-whisper
+torch
+sounddevice
+soundfile
+numpy
+scipy
+flask
+werkzeug
+flask-cors
